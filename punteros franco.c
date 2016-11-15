@@ -26,7 +26,7 @@ int main (void)
 //Se da la orden de imprimir la nueva dirección a la que apunta el puntero p1 en hexadecimal
   printf ("La nueva dirección almacenada en p1 es: %p\n", p1);
 
-//Se da la orden de imprimir 
+//Se da la orden de imprimir la dirección en hexadecimal en la que está guardado el elemento asignado a x
   printf ("La dirección de x: %p\n", &x);
 
 //Se da la orden de imprimir el elemento al que apunta el puntero p1 que es el número entero 5
