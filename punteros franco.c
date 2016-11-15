@@ -5,7 +5,7 @@
 int main (void)
 {
 
-//Se define un puntero llamado p1 que apunta a un número entero
+//Se define un puntero llamado p1 que apunta a un número entero.
   int *p1;
 
 //Se asigna el número entero 5 a x  
